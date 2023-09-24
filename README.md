@@ -30,71 +30,71 @@ class MyApp extends StatelessWidget {
               _buildListTile(
                 imageUrl:
                     "https://i.pinimg.com/564x/f9/32/93/f932936f6c7bfdb82c41b81f21b9566c.jpg",
-                title: "Berita 1",
-                subtitle: "Jabatan : Direktur",
+                title: "Playboi carti",
+                subtitle: "Jabatan : Rapper",
               ),
               SizedBox(height: 20),
               _buildListTile(
                 imageUrl:
                     "https://i.pinimg.com/564x/f9/32/93/f932936f6c7bfdb82c41b81f21b9566c.jpg", // Ganti URL gambar
-                title: "Berita 2",
-                subtitle: "Jabatan : Direktur",
+                title: "Ken carson",
+                subtitle: "Jabatan : Rapper",
               ),
               SizedBox(height: 20),
               _buildListTile(
                 imageUrl:
                     "https://i.pinimg.com/564x/f9/32/93/f932936f6c7bfdb82c41b81f21b9566c.jpg", // Ganti URL gambar
-                title: "Berita 3",
-                subtitle: "Jabatan : Direktur",
+                title: "Gunna",
+                subtitle: "Jabatan : Rapper",
               ),
               SizedBox(height: 20),
               _buildListTile(
                 imageUrl:
                     "https://i.pinimg.com/564x/f9/32/93/f932936f6c7bfdb82c41b81f21b9566c.jpg", // Ganti URL gambar
-                title: "Berita 4",
-                subtitle: "Jabatan : Direktur",
+                title: "Lil pump",
+                subtitle: "Jabatan : Rapper",
               ),
               SizedBox(height: 20),
               _buildListTile(
                 imageUrl:
                     "https://i.pinimg.com/564x/f9/32/93/f932936f6c7bfdb82c41b81f21b9566c.jpg", // Ganti URL gambar
-                title: "Berita 5",
-                subtitle: "Jabatan : Direktur",
+                title: "Juice wrld",
+                subtitle: "Jabatan : Rapper",
               ),
               SizedBox(height: 20),
               _buildListTile(
                 imageUrl:
                     "https://i.pinimg.com/564x/f9/32/93/f932936f6c7bfdb82c41b81f21b9566c.jpg", // Ganti URL gambar
-                title: "Berita 6",
-                subtitle: "Jabatan : Direktur",
+                title: "xxtentacion",
+                subtitle: "Jabatan : Rapper",
               ),
               SizedBox(height: 20),
               _buildListTile(
                 imageUrl:
                     "https://i.pinimg.com/564x/f9/32/93/f932936f6c7bfdb82c41b81f21b9566c.jpg", // Ganti URL gambar
-                title: "Berita 7",
-                subtitle: "Jabatan : Direktur",
+                title: "lil uzi",
+                subtitle: "Jabatan : Rapper",
               ),
               SizedBox(height: 20),
               _buildListTile(
                 imageUrl:
                     "https://i.pinimg.com/564x/f9/32/93/f932936f6c7bfdb82c41b81f21b9566c.jpg", // Ganti URL gambar
-                title: "Berita 8",
-                subtitle: "Jabatan : Direktur",
+                title: "travis scot",
+                subtitle: "Jabatan : Rapper",
               ),
               SizedBox(height: 20),
               _buildListTile(
                 imageUrl:
                     "https://i.pinimg.com/564x/f9/32/93/f932936f6c7bfdb82c41b81f21b9566c.jpg", // Ganti URL gambar
-                title: "Berita 9",
-                subtitle: "Jabatan : Direktur",
+                title: "kay flock",
+                subtitle: "Jabatan : Rapper",
               ),
               SizedBox(height: 20),
               _buildListTile(
                 imageUrl:
                     "https://i.pinimg.com/564x/f9/32/93/f932936f6c7bfdb82c41b81f21b9566c.jpg", // Ganti URL gambar
-                title: "Berita 10",
-                subtitle: "Jabatan : Direktur",
+                title: "dthang",
+                subtitle: "Jabatan : Rapper",
               ),
             ],
           ),
